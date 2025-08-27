@@ -8,7 +8,8 @@ The aim is to build an automated system that can accurately classify news conten
 ## Repository Contents
 - **Final Coding.ipynb** – Jupyter Notebook containing the full code (data preprocessing, feature extraction, model training, evaluation).  
 - **Final Project Presentation.pptx** – Presentation slides summarising the project.  
-- **Final report.docx** – Detailed project report covering methodology, results, and analysis.  
+- **Final report.docx** – Detailed project report covering methodology, results, and analysis.
+- **Final report.pdf** – Detailed project report covering methodology, results, and analysis.  
 - **bbc.zip** – BBC News dataset (compressed).  
 - **nltk_data.zip** – NLTK stopwords and WordNet data for preprocessing.  
 
